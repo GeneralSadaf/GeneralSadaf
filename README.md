@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Sadaf Hossain 👋🏻
 
-<!--
-**GeneralSadaf/GeneralSadaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A student and aspiring web developer passionate about learning and building projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** HTML, CSS, JavaScript, Python
+
+---
+
+## 🌱 Currently
+- Learning web development and improving my coding skills  
+- Building projects
+
+---
+
+## 📫 Connect with me
+-  Portfolio: [generalsadaf.github.io](https://generalsadaf.github.io)  
+-  LinkedIn: [Sadaf Hossain](https://www.linkedin.com/in/SadafHossain)  
+-  Twitter: [@general_sadaf](https://x.com/general_sadaf)  
+-  Bluesky: [generalsadaf](https://bsky.app/profile/generalsadaf.bsky.social)  
+-  Discord: `generalsadaf` (712626099141476383)
+
+---
+
+## 📚 Hobbies
+- Analyzing malware and phishing websites
+- Reading books  
+- Exercising  
+---
